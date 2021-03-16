@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="XingChen">
-    <output-path>$PROJECT_DIR$/out/artifacts/XingChen</output-path>
-    <root id="archive" name="XingChen.war">
-      <element id="artifact" artifact-name="web:war exploded" />
-    </root>
-  </artifact>
-</component>
